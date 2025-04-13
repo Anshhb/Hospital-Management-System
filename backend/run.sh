@@ -1,0 +1,1 @@
+python ../Bot/bot.py > output.log
